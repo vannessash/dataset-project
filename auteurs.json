@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "naam": "John Steinbeck",
+    "nationaliteit": "Amerikaans",
+    "geboortejaar": 1902,
+    "nobelprijs": true,
+    "foto": "https://picsum.photos/id/101/200"
+  },
+  {
+    "id": 2,
+    "naam": "Jane Austen",
+    "nationaliteit": "Brits",
+    "geboortejaar": 1775,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/102/200"
+  },
+  {
+    "id": 3,
+    "naam": "Leo Tolstoj",
+    "nationaliteit": "Russisch",
+    "geboortejaar": 1828,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/103/200"
+  },
+  {
+    "id": 4,
+    "naam": "Alexandre Dumas",
+    "nationaliteit": "Frans",
+    "geboortejaar": 1802,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/104/200"
+  },
+  {
+    "id": 5,
+    "naam": "Victor Hugo",
+    "nationaliteit": "Frans",
+    "geboortejaar": 1802,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/105/200"
+  },
+  {
+    "id": 6,
+    "naam": "Gaston Leroux",
+    "nationaliteit": "Frans",
+    "geboortejaar": 1868,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/106/200"
+  },
+  {
+    "id": 7,
+    "naam": "Mary Shelley",
+    "nationaliteit": "Brits",
+    "geboortejaar": 1797,
+    "nobelprijs": false,
+    "foto": "https://picsum.photos/id/107/200"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "titel": "East of Eden",
+    "beschrijving": "Een generatieoverschrijdend verhaal over twee families in de Salinas Valley in Californië, waarin de strijd tussen goed en kwaad en tussen broers centraal staat.",
+    "paginas": 601,
+    "beschikbaar": true,
+    "publicatiedatum": "1952-09-19",
+    "cover": "https://picsum.photos/id/201/300/450",
+    "genre": "drama",
+    "tags": [
+      "familie",
+      "Californië",
+      "broers"
+    ],
+    "auteur": {
+      "id": 1,
+      "naam": "John Steinbeck",
+      "nationaliteit": "Amerikaans",
+      "geboortejaar": 1902,
+      "nobelprijs": true,
+      "foto": "https://picsum.photos/id/101/200"
+    }
+  },
+  {
+    "id": 2,
+    "titel": "Pride and Prejudice",
+    "beschrijving": "Elizabeth Bennet leert door misverstanden en eigen vooroordelen heen de trotse meneer Darcy kennen in het Engeland van de vroege negentiende eeuw.",
+    "paginas": 279,
+    "beschikbaar": true,
+    "publicatiedatum": "1813-01-28",
+    "cover": "https://picsum.photos/id/202/300/450",
+    "genre": "romantiek",
+    "tags": [
+      "liefde",
+      "standenverschil",
+      "humor"
+    ],
+    "auteur": {
+      "id": 2,
+      "naam": "Jane Austen",
+      "nationaliteit": "Brits",
+      "geboortejaar": 1775,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/102/200"
+    }
+  },
+  {
+    "id": 3,
+    "titel": "Sense and Sensibility",
+    "beschrijving": "De zussen Elinor en Marianne Dashwood zoeken liefde en zekerheid nadat hun familie haar fortuin verliest, elk met een heel eigen kijk op het leven.",
+    "paginas": 352,
+    "beschikbaar": false,
+    "publicatiedatum": "1811-10-30",
+    "cover": "https://picsum.photos/id/203/300/450",
+    "genre": "romantiek",
+    "tags": [
+      "zussen",
+      "liefde",
+      "maatschappij"
+    ],
+    "auteur": {
+      "id": 2,
+      "naam": "Jane Austen",
+      "nationaliteit": "Brits",
+      "geboortejaar": 1775,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/102/200"
+    }
+  },
+  {
+    "id": 4,
+    "titel": "War and Peace",
+    "beschrijving": "Een monumentaal verhaal over vijf Russische adellijke families tegen de achtergrond van de Napoleontische oorlogen.",
+    "paginas": 1225,
+    "beschikbaar": true,
+    "publicatiedatum": "1869-01-01",
+    "cover": "https://picsum.photos/id/204/300/450",
+    "genre": "historisch",
+    "tags": [
+      "oorlog",
+      "Rusland",
+      "Napoleon"
+    ],
+    "auteur": {
+      "id": 3,
+      "naam": "Leo Tolstoj",
+      "nationaliteit": "Russisch",
+      "geboortejaar": 1828,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/103/200"
+    }
+  },
+  {
+    "id": 5,
+    "titel": "The Count of Monte Cristo",
+    "beschrijving": "Edmond Dantès wordt onterecht opgesloten, ontsnapt uit de gevangenis en neemt als geheimzinnige graaf wraak op degenen die hem verraden hebben.",
+    "paginas": 1276,
+    "beschikbaar": true,
+    "publicatiedatum": "1844-08-28",
+    "cover": "https://picsum.photos/id/205/300/450",
+    "genre": "avontuur",
+    "tags": [
+      "wraak",
+      "gevangenis",
+      "schat"
+    ],
+    "auteur": {
+      "id": 4,
+      "naam": "Alexandre Dumas",
+      "nationaliteit": "Frans",
+      "geboortejaar": 1802,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/104/200"
+    }
+  },
+  {
+    "id": 6,
+    "titel": "The Three Musketeers",
+    "beschrijving": "De jonge d'Artagnan sluit zich aan bij de musketiers Athos, Porthos en Aramis en raakt verwikkeld in een hofintrige rond de Franse koningin.",
+    "paginas": 700,
+    "beschikbaar": false,
+    "publicatiedatum": "1844-03-14",
+    "cover": "https://picsum.photos/id/206/300/450",
+    "genre": "avontuur",
+    "tags": [
+      "zwaardvechten",
+      "vriendschap",
+      "hofintriges"
+    ],
+    "auteur": {
+      "id": 4,
+      "naam": "Alexandre Dumas",
+      "nationaliteit": "Frans",
+      "geboortejaar": 1802,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/104/200"
+    }
+  },
+  {
+    "id": 7,
+    "titel": "Les Misérables",
+    "beschrijving": "Ex-gevangene Jean Valjean probeert een nieuw leven op te bouwen terwijl inspecteur Javert hem blijft achtervolgen in het Frankrijk van de negentiende eeuw.",
+    "paginas": 1463,
+    "beschikbaar": true,
+    "publicatiedatum": "1862-04-03",
+    "cover": "https://picsum.photos/id/207/300/450",
+    "genre": "drama",
+    "tags": [
+      "rechtvaardigheid",
+      "armoede",
+      "Parijs"
+    ],
+    "auteur": {
+      "id": 5,
+      "naam": "Victor Hugo",
+      "nationaliteit": "Frans",
+      "geboortejaar": 1802,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/105/200"
+    }
+  },
+  {
+    "id": 8,
+    "titel": "Notre-Dame de Paris",
+    "beschrijving": "In het middeleeuwse Parijs raken de klokkenluider Quasimodo, de zigeunerin Esmeralda en aartsdiaken Frollo verstrikt in een tragisch liefdesverhaal.",
+    "paginas": 940,
+    "beschikbaar": true,
+    "publicatiedatum": "1831-01-14",
+    "cover": "https://picsum.photos/id/208/300/450",
+    "genre": "historisch",
+    "tags": [
+      "Parijs",
+      "kathedraal",
+      "tragedie"
+    ],
+    "auteur": {
+      "id": 5,
+      "naam": "Victor Hugo",
+      "nationaliteit": "Frans",
+      "geboortejaar": 1802,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/105/200"
+    }
+  },
+  {
+    "id": 9,
+    "titel": "The Phantom of the Opera",
+    "beschrijving": "Een mysterieuze man die in de kelders van de Parijse opera leeft, raakt geobsedeerd door de jonge zangeres Christine Daaé.",
+    "paginas": 400,
+    "beschikbaar": false,
+    "publicatiedatum": "1910-01-01",
+    "cover": "https://picsum.photos/id/209/300/450",
+    "genre": "gothic",
+    "tags": [
+      "opera",
+      "mysterie",
+      "obsessie"
+    ],
+    "auteur": {
+      "id": 6,
+      "naam": "Gaston Leroux",
+      "nationaliteit": "Frans",
+      "geboortejaar": 1868,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/106/200"
+    }
+  },
+  {
+    "id": 10,
+    "titel": "Frankenstein",
+    "beschrijving": "Wetenschapper Victor Frankenstein geeft leven aan een wezen dat hij daarna in de steek laat, met noodlottige gevolgen voor hen allebei.",
+    "paginas": 280,
+    "beschikbaar": true,
+    "publicatiedatum": "1818-01-01",
+    "cover": "https://picsum.photos/id/210/300/450",
+    "genre": "gothic",
+    "tags": [
+      "wetenschap",
+      "monster",
+      "verantwoordelijkheid"
+    ],
+    "auteur": {
+      "id": 7,
+      "naam": "Mary Shelley",
+      "nationaliteit": "Brits",
+      "geboortejaar": 1797,
+      "nobelprijs": false,
+      "foto": "https://picsum.photos/id/107/200"
+    }
+  }
+]
