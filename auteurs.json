@@ -5,7 +5,7 @@
     "nationaliteit": "Amerikaans",
     "geboortejaar": 1902,
     "nobelprijs": true,
-    "foto": "https://picsum.photos/id/101/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/john-steinbeck.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "nationaliteit": "Brits",
     "geboortejaar": 1775,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/102/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/jane-austen.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "nationaliteit": "Russisch",
     "geboortejaar": 1828,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/103/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/leo-tolstoy.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "nationaliteit": "Frans",
     "geboortejaar": 1802,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/104/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/alexander-dumas.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "nationaliteit": "Frans",
     "geboortejaar": 1802,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/105/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/victor-hugo.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "nationaliteit": "Frans",
     "geboortejaar": 1868,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/106/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/gaston-leroux.jpg"
   },
   {
     "id": 7,
@@ -53,6 +53,6 @@
     "nationaliteit": "Brits",
     "geboortejaar": 1797,
     "nobelprijs": false,
-    "foto": "https://picsum.photos/id/107/200"
+    "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/mary-shelley.jpg"
   }
 ]

@@ -6,7 +6,7 @@
     "paginas": 601,
     "beschikbaar": true,
     "publicatiedatum": "1952-09-19",
-    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/images/boeken/east-of-eden.jpg",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/east-of-eden.jpg",
     "genre": "drama",
     "tags": [
       "familie",
@@ -19,7 +19,7 @@
       "nationaliteit": "Amerikaans",
       "geboortejaar": 1902,
       "nobelprijs": true,
-      "foto": "https://picsum.photos/id/101/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/john-steinbeck.jpg"
     }
   },
   {
@@ -29,7 +29,7 @@
     "paginas": 279,
     "beschikbaar": true,
     "publicatiedatum": "1813-01-28",
-    "cover": "https://picsum.photos/id/202/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/pride-and-prejudice.jpg",
     "genre": "romantiek",
     "tags": [
       "liefde",
@@ -42,7 +42,7 @@
       "nationaliteit": "Brits",
       "geboortejaar": 1775,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/102/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/jane-austen.jpg"
     }
   },
   {
@@ -52,7 +52,7 @@
     "paginas": 352,
     "beschikbaar": false,
     "publicatiedatum": "1811-10-30",
-    "cover": "https://picsum.photos/id/203/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/sense-and-sensibility.jpg",
     "genre": "romantiek",
     "tags": [
       "zussen",
@@ -65,7 +65,7 @@
       "nationaliteit": "Brits",
       "geboortejaar": 1775,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/102/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/jane-austen.jpg"
     }
   },
   {
@@ -75,7 +75,7 @@
     "paginas": 1225,
     "beschikbaar": true,
     "publicatiedatum": "1869-01-01",
-    "cover": "https://picsum.photos/id/204/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/war-and-peace.jpg",
     "genre": "historisch",
     "tags": [
       "oorlog",
@@ -88,7 +88,7 @@
       "nationaliteit": "Russisch",
       "geboortejaar": 1828,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/103/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/leo-tolstoy.jpg"
     }
   },
   {
@@ -98,7 +98,7 @@
     "paginas": 1276,
     "beschikbaar": true,
     "publicatiedatum": "1844-08-28",
-    "cover": "https://picsum.photos/id/205/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/the-count-of-monte-cristo.jpg",
     "genre": "avontuur",
     "tags": [
       "wraak",
@@ -111,7 +111,7 @@
       "nationaliteit": "Frans",
       "geboortejaar": 1802,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/104/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/alexander-dumas.jpg"
     }
   },
   {
@@ -121,7 +121,7 @@
     "paginas": 700,
     "beschikbaar": false,
     "publicatiedatum": "1844-03-14",
-    "cover": "https://picsum.photos/id/206/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/the-three-musketeers.jpg",
     "genre": "avontuur",
     "tags": [
       "zwaardvechten",
@@ -134,7 +134,7 @@
       "nationaliteit": "Frans",
       "geboortejaar": 1802,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/104/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/alexander-dumas.jpg"
     }
   },
   {
@@ -144,7 +144,7 @@
     "paginas": 1463,
     "beschikbaar": true,
     "publicatiedatum": "1862-04-03",
-    "cover": "https://picsum.photos/id/207/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/les-miserables.jpg",
     "genre": "drama",
     "tags": [
       "rechtvaardigheid",
@@ -157,7 +157,7 @@
       "nationaliteit": "Frans",
       "geboortejaar": 1802,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/105/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/victor-hugo.jpg"
     }
   },
   {
@@ -167,7 +167,7 @@
     "paginas": 940,
     "beschikbaar": true,
     "publicatiedatum": "1831-01-14",
-    "cover": "https://picsum.photos/id/208/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/notre-dame-de-paris.jpg",
     "genre": "historisch",
     "tags": [
       "Parijs",
@@ -180,7 +180,7 @@
       "nationaliteit": "Frans",
       "geboortejaar": 1802,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/105/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/victor-hugo.jpg"
     }
   },
   {
@@ -190,7 +190,7 @@
     "paginas": 400,
     "beschikbaar": false,
     "publicatiedatum": "1910-01-01",
-    "cover": "https://picsum.photos/id/209/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/the-phantom-of-the-opera.jpg",
     "genre": "gothic",
     "tags": [
       "opera",
@@ -203,7 +203,7 @@
       "nationaliteit": "Frans",
       "geboortejaar": 1868,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/106/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/gaston-leroux.jpg"
     }
   },
   {
@@ -213,7 +213,7 @@
     "paginas": 280,
     "beschikbaar": true,
     "publicatiedatum": "1818-01-01",
-    "cover": "https://picsum.photos/id/210/300/450",
+    "cover": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/boeken/frankenstein.jpg",
     "genre": "gothic",
     "tags": [
       "wetenschap",
@@ -226,7 +226,7 @@
       "nationaliteit": "Brits",
       "geboortejaar": 1797,
       "nobelprijs": false,
-      "foto": "https://picsum.photos/id/107/200"
+      "foto": "https://raw.githubusercontent.com/vannessash/dataset-project/main/afbeeldingen/auteurs/mary-shelley.jpg"
     }
   }
 ]
